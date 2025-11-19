@@ -1,3 +1,4 @@
+// class , inheritance , super kw , Error kw , stack trace??
 class ApiError extends Error {
     constructor(
         statusCode,
